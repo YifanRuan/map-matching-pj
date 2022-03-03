@@ -24,3 +24,9 @@ using ld = double
 ```
 
 本来 ```ld``` 是 ```long double``` 的缩写，但是会在一些点处超时，就都用 ```double```。
+
+### Differences in two source files
+- Different Distance functions
+- Hyperparameters
+- Some detailed comments in Chinese
+- Minor changes
